@@ -5,7 +5,7 @@
       "english": "Our Father"
     },
     "text": {
-      "igbo": "Nna anyi no n’eluigwe, ka aha gi di nsọ. Ka alaeze gi bia. Ka eme uche gi n’elu uwa dika e si eme ya n’eluigwe. Nye anyi taa nri anyi kwa ubochi. Gbaghara anyi mmehie anyi, dika anyi na-agbaghara ndi mehiere anyi. Emeghi ka anyi banye n’ime nnwale, ma zoputa anyi n’ajo ihe. Amen.",
+      "igbo": "Nna anyi no n'eluigwe. Ka otito diri aha gi. Ka ochichi gi bia, ka e mee uche gi n uwa ka e si eme ya n'eluigwe. Nye anyi tata, nri nke ubochi anyi. Gbaghara anyi mmehie anyi ga dika anyi si gbaghara ndi mehiere anyi. E kwena ka anyi kwenye na nlanye, ma zoputa anyi n'ajo ihe. Amen",
       "english": "Our Father, who art in heaven, hallowed be thy name. Thy kingdom come, thy will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen."
     }
   },
@@ -15,7 +15,7 @@
       "english": "Hail Mary"
     },
     "text": {
-      "igbo": "Ekele Maria, juputara na amara, Onye-nwe-anyị di gi nso. I bukwa amara n’ime umu nwanyi, Mụọ Nsọ bukwa amara n’ime afọ gi, Jisus. Nsọ Maria, Nne Chineke, kpegara anyi ndi-nmehie ekpere, ugbu a, na n’oge ọnwu anyi. Amen.",
+      "igbo": "Ekenem Maria juputara na gracia, Oseburu uwa nonyere gi, idi ngozi na etiti ukporo nine, odiazi ngozi nwafo gi bu Jesu, Maria di aso, nne nke Chukwu, yobara anyi bu ndi njo ayiyo, kita, na amani onwu anyi. Amen.",
       "english": "Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners now and at the hour of our death. Amen."
     }
   },
@@ -25,7 +25,7 @@
       "english": "Glory Be to the Father"
     },
     "text": {
-      "igbo": "Otuto diri Nna, na Nwa, na Mụọ Nsọ. Dika o siri buru na mbu, ugbua, na mgbe niile, rue mgbe ebighị ebi. Amen.",
+      "igbo": "Otito diri Nna, na Nwa, na Muo Nso, otu odi na izizi na kita, n'ekpo nine n'uwa ebebe. Amen",
       "english": "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now and ever shall be, world without end. Amen."
     }
   },
@@ -35,8 +35,20 @@
       "english": "Hail Holy Queen"
     },
     "text": {
-      "igbo": "Eze Nwanyị Nsọ, Nne ebere, ndu na olileanya anyi, ekele diri gi. Gi ka anyi kpọrọ òkù, umu Eva ndi bịara n’ọdịla. Gi ka anyi zitere ikwú na ákwá n’ala a juru na mwute. Ya mere, Nwanyị anyi, tụgharịa anya gi ebere anyị n’akụkụ anyi. Mgbe i mesịrị, gosiputara anyị Jisus, mkpụrụ afọ gi di nso. O Nwanyị dị nsọ, dị nro, dịkwa ebere. Amen.",
+      "igbo": "Ekene Ezenwanyịdịasọ, Nne nke ebere, ndụanyị, na ụsọanyị, na nchekwube anyị, ekene! Gị k'anyị bụ ụmụ Eve achụpụrụ na-akpọku; Gị k'anyị na-ezetera ume, na-eru uru, na-akwa akwa n'ụwa anya mmiri nke a. Ya bụ tụgharịkene, O onye na-ekwuru anyị, lekwasị anyị anya  ebere Gị; ma mgbe oge nchụpụ anyị a gafechara, gosi anyị nwa afọ Gị dị ngọzị bụ Jesu. O onye dị afọ ọma, dị ịhụnanya, dị ụtọ bụ Virgin  Marịa.",
       "english": "Hail, Holy Queen, Mother of Mercy, our life, our sweetness, and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious advocate, thine eyes of mercy toward us; and after this our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary. Amen."
     }
+  },
+  {
+    "title": {
+      "igbo": "Apostles' Creed",
+      "english": "Apostles' Creed"
+    },
+    "text": {
+      "igbo": "Ekwem na chukwu, nna onye pulu ime ife nine, onye kelu enuigwe na ani, nya na Jesu Kristi, so ofu Nwa ya eze anyi, onye atulu ime ya site n'ike nke muo nso, amua ya na Virgin Maria, ota afufu n'oge nke Pontus Pilate akpodo ya n'obe, O nwua, enie ya ozida na muo, olu na mbosi nke ito osikwa na ndi nwuluanwu puta, orogo na enu igwe, onodu naka nri chukwu nna onye pulu ife nine. Ne ebe afu ka oga esibia, g'ikpe ndi di ndu na ndi nwulu anwu ikpe. Ekwem na Muo-Nso, na nzuko nso katolik na mmeko nke ndi nso na mgbaghalu nke njo, na mbinite na onwu nke aru, na ndu ebebe. Amen",
+      "english": "I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen."
+    }
   }
+
+  
 ]
